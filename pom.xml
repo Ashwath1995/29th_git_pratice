@@ -1,5 +1,5 @@
 <project>
-<groupId>org.qt</gorupId>
+<groupId>org.qt</groupId>
 <artifactId>Hello-world</artifactId>
 <version>1.0</version>
 <packaging>jar</packaging>
